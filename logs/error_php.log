@@ -1,0 +1,620 @@
+[29-Mar-2022 22:11:41 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 43
+[29-Mar-2022 22:11:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:11:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:11:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:43
+[29-Mar-2022 22:11:41 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 46
+[29-Mar-2022 22:11:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:11:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:11:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:46
+[29-Mar-2022 22:11:41 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 49
+[29-Mar-2022 22:11:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:11:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:11:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49
+[29-Mar-2022 22:11:41 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 52
+[29-Mar-2022 22:11:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:11:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:11:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:52
+[29-Mar-2022 22:11:41 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 55
+[29-Mar-2022 22:11:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:11:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:11:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:55
+[29-Mar-2022 22:11:41 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 58
+[29-Mar-2022 22:11:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:11:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:11:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:58
+[29-Mar-2022 22:11:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 94
+[29-Mar-2022 22:11:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:11:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:11:41 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:94
+[29-Mar-2022 22:15:23 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 43
+[29-Mar-2022 22:15:23 UTC] PHP Stack trace:
+[29-Mar-2022 22:15:23 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:15:23 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:43
+[29-Mar-2022 22:15:23 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 46
+[29-Mar-2022 22:15:23 UTC] PHP Stack trace:
+[29-Mar-2022 22:15:23 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:15:23 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:46
+[29-Mar-2022 22:15:23 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 49
+[29-Mar-2022 22:15:23 UTC] PHP Stack trace:
+[29-Mar-2022 22:15:23 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:15:23 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49
+[29-Mar-2022 22:15:23 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 52
+[29-Mar-2022 22:15:23 UTC] PHP Stack trace:
+[29-Mar-2022 22:15:23 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:15:23 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:52
+[29-Mar-2022 22:15:23 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 55
+[29-Mar-2022 22:15:23 UTC] PHP Stack trace:
+[29-Mar-2022 22:15:23 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:15:23 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:55
+[29-Mar-2022 22:15:23 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 58
+[29-Mar-2022 22:15:23 UTC] PHP Stack trace:
+[29-Mar-2022 22:15:23 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:15:23 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:58
+[29-Mar-2022 22:15:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 94
+[29-Mar-2022 22:15:23 UTC] PHP Stack trace:
+[29-Mar-2022 22:15:23 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:15:23 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:94
+[29-Mar-2022 22:22:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 43
+[29-Mar-2022 22:22:19 UTC] PHP Stack trace:
+[29-Mar-2022 22:22:19 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:22:19 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:43
+[29-Mar-2022 22:22:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 46
+[29-Mar-2022 22:22:19 UTC] PHP Stack trace:
+[29-Mar-2022 22:22:19 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:22:19 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:46
+[29-Mar-2022 22:22:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 49
+[29-Mar-2022 22:22:19 UTC] PHP Stack trace:
+[29-Mar-2022 22:22:19 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:22:19 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49
+[29-Mar-2022 22:22:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 52
+[29-Mar-2022 22:22:19 UTC] PHP Stack trace:
+[29-Mar-2022 22:22:19 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:22:19 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:52
+[29-Mar-2022 22:22:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 55
+[29-Mar-2022 22:22:19 UTC] PHP Stack trace:
+[29-Mar-2022 22:22:19 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:22:19 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:55
+[29-Mar-2022 22:22:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 58
+[29-Mar-2022 22:22:19 UTC] PHP Stack trace:
+[29-Mar-2022 22:22:19 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:22:19 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:58
+[29-Mar-2022 22:22:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 94
+[29-Mar-2022 22:22:19 UTC] PHP Stack trace:
+[29-Mar-2022 22:22:19 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:22:19 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:94
+[29-Mar-2022 22:23:01 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 43
+[29-Mar-2022 22:23:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:23:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:23:01 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:43
+[29-Mar-2022 22:23:01 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 46
+[29-Mar-2022 22:23:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:23:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:23:01 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:46
+[29-Mar-2022 22:23:01 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 49
+[29-Mar-2022 22:23:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:23:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:23:01 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49
+[29-Mar-2022 22:23:01 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 52
+[29-Mar-2022 22:23:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:23:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:23:01 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:52
+[29-Mar-2022 22:23:01 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 55
+[29-Mar-2022 22:23:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:23:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:23:01 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:55
+[29-Mar-2022 22:23:01 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 58
+[29-Mar-2022 22:23:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:23:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:23:01 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:58
+[29-Mar-2022 22:23:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 94
+[29-Mar-2022 22:23:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:23:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:23:01 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:94
+[29-Mar-2022 22:24:01 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 43
+[29-Mar-2022 22:24:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:01 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:43
+[29-Mar-2022 22:24:01 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 46
+[29-Mar-2022 22:24:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:01 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:46
+[29-Mar-2022 22:24:01 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 49
+[29-Mar-2022 22:24:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:01 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49
+[29-Mar-2022 22:24:01 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 52
+[29-Mar-2022 22:24:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:01 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:52
+[29-Mar-2022 22:24:01 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 55
+[29-Mar-2022 22:24:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:01 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:55
+[29-Mar-2022 22:24:01 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 58
+[29-Mar-2022 22:24:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:01 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:58
+[29-Mar-2022 22:24:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 94
+[29-Mar-2022 22:24:01 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:01 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:01 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:94
+[29-Mar-2022 22:24:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 43
+[29-Mar-2022 22:24:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:26 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:43
+[29-Mar-2022 22:24:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 46
+[29-Mar-2022 22:24:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:26 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:46
+[29-Mar-2022 22:24:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 49
+[29-Mar-2022 22:24:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:26 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49
+[29-Mar-2022 22:24:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 52
+[29-Mar-2022 22:24:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:26 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:52
+[29-Mar-2022 22:24:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 55
+[29-Mar-2022 22:24:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:26 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:55
+[29-Mar-2022 22:24:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 58
+[29-Mar-2022 22:24:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:26 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:58
+[29-Mar-2022 22:24:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 94
+[29-Mar-2022 22:24:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:26 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:94
+[29-Mar-2022 22:24:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 43
+[29-Mar-2022 22:24:48 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:48 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:48 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:43
+[29-Mar-2022 22:24:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 46
+[29-Mar-2022 22:24:48 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:48 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:48 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:46
+[29-Mar-2022 22:24:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 49
+[29-Mar-2022 22:24:48 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:48 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:48 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49
+[29-Mar-2022 22:24:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 52
+[29-Mar-2022 22:24:48 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:48 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:48 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:52
+[29-Mar-2022 22:24:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 55
+[29-Mar-2022 22:24:48 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:48 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:48 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:55
+[29-Mar-2022 22:24:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 58
+[29-Mar-2022 22:24:48 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:48 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:48 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:58
+[29-Mar-2022 22:24:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 94
+[29-Mar-2022 22:24:48 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:48 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:48 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:94
+[29-Mar-2022 22:24:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 43
+[29-Mar-2022 22:24:56 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:56 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:56 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:43
+[29-Mar-2022 22:24:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 46
+[29-Mar-2022 22:24:56 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:56 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:56 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:46
+[29-Mar-2022 22:24:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 49
+[29-Mar-2022 22:24:56 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:56 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:56 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49
+[29-Mar-2022 22:24:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 52
+[29-Mar-2022 22:24:56 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:56 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:56 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:52
+[29-Mar-2022 22:24:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 55
+[29-Mar-2022 22:24:56 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:56 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:56 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:55
+[29-Mar-2022 22:24:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 58
+[29-Mar-2022 22:24:56 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:56 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:56 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:58
+[29-Mar-2022 22:24:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 94
+[29-Mar-2022 22:24:56 UTC] PHP Stack trace:
+[29-Mar-2022 22:24:56 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:24:56 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:94
+[29-Mar-2022 22:25:08 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 43
+[29-Mar-2022 22:25:08 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:08 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:08 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:43
+[29-Mar-2022 22:25:08 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 46
+[29-Mar-2022 22:25:08 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:08 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:08 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:46
+[29-Mar-2022 22:25:08 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 49
+[29-Mar-2022 22:25:08 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:08 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:08 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49
+[29-Mar-2022 22:25:08 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 52
+[29-Mar-2022 22:25:08 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:08 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:08 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:52
+[29-Mar-2022 22:25:08 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 55
+[29-Mar-2022 22:25:08 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:08 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:08 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:55
+[29-Mar-2022 22:25:08 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 58
+[29-Mar-2022 22:25:08 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:08 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:08 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:58
+[29-Mar-2022 22:25:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 94
+[29-Mar-2022 22:25:08 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:08 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:08 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:94
+[29-Mar-2022 22:25:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 43
+[29-Mar-2022 22:25:18 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:18 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:18 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:43
+[29-Mar-2022 22:25:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 46
+[29-Mar-2022 22:25:18 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:18 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:18 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:46
+[29-Mar-2022 22:25:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 49
+[29-Mar-2022 22:25:18 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:18 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:18 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49
+[29-Mar-2022 22:25:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 52
+[29-Mar-2022 22:25:18 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:18 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:18 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:52
+[29-Mar-2022 22:25:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 55
+[29-Mar-2022 22:25:18 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:18 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:18 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:55
+[29-Mar-2022 22:25:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 58
+[29-Mar-2022 22:25:18 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:18 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:18 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:58
+[29-Mar-2022 22:25:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 94
+[29-Mar-2022 22:25:18 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:18 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:18 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:94
+[29-Mar-2022 22:25:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 43
+[29-Mar-2022 22:25:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:26 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:43
+[29-Mar-2022 22:25:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 46
+[29-Mar-2022 22:25:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:26 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:46
+[29-Mar-2022 22:25:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 49
+[29-Mar-2022 22:25:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:26 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49
+[29-Mar-2022 22:25:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 52
+[29-Mar-2022 22:25:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:26 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:52
+[29-Mar-2022 22:25:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 55
+[29-Mar-2022 22:25:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:26 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:55
+[29-Mar-2022 22:25:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 58
+[29-Mar-2022 22:25:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:26 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:58
+[29-Mar-2022 22:25:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:49) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 94
+[29-Mar-2022 22:25:26 UTC] PHP Stack trace:
+[29-Mar-2022 22:25:26 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:25:26 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:94
+[29-Mar-2022 22:27:55 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 41
+[29-Mar-2022 22:27:55 UTC] PHP Stack trace:
+[29-Mar-2022 22:27:55 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:27:55 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:41
+[29-Mar-2022 22:27:55 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 44
+[29-Mar-2022 22:27:55 UTC] PHP Stack trace:
+[29-Mar-2022 22:27:55 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:27:55 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:44
+[29-Mar-2022 22:27:55 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 47
+[29-Mar-2022 22:27:55 UTC] PHP Stack trace:
+[29-Mar-2022 22:27:55 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:27:55 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47
+[29-Mar-2022 22:27:55 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 50
+[29-Mar-2022 22:27:55 UTC] PHP Stack trace:
+[29-Mar-2022 22:27:55 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:27:55 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:50
+[29-Mar-2022 22:27:55 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 53
+[29-Mar-2022 22:27:55 UTC] PHP Stack trace:
+[29-Mar-2022 22:27:55 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:27:55 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:53
+[29-Mar-2022 22:27:55 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 56
+[29-Mar-2022 22:27:55 UTC] PHP Stack trace:
+[29-Mar-2022 22:27:55 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:27:55 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:56
+[29-Mar-2022 22:27:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 92
+[29-Mar-2022 22:27:55 UTC] PHP Stack trace:
+[29-Mar-2022 22:27:55 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:27:55 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:92
+[29-Mar-2022 22:31:21 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 41
+[29-Mar-2022 22:31:21 UTC] PHP Stack trace:
+[29-Mar-2022 22:31:21 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:31:21 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:41
+[29-Mar-2022 22:31:21 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 44
+[29-Mar-2022 22:31:21 UTC] PHP Stack trace:
+[29-Mar-2022 22:31:21 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:31:21 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:44
+[29-Mar-2022 22:31:21 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 47
+[29-Mar-2022 22:31:21 UTC] PHP Stack trace:
+[29-Mar-2022 22:31:21 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:31:21 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47
+[29-Mar-2022 22:31:21 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 50
+[29-Mar-2022 22:31:21 UTC] PHP Stack trace:
+[29-Mar-2022 22:31:21 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:31:21 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:50
+[29-Mar-2022 22:31:21 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 53
+[29-Mar-2022 22:31:21 UTC] PHP Stack trace:
+[29-Mar-2022 22:31:21 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:31:21 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:53
+[29-Mar-2022 22:31:21 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 56
+[29-Mar-2022 22:31:21 UTC] PHP Stack trace:
+[29-Mar-2022 22:31:21 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:31:21 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:56
+[29-Mar-2022 22:31:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 92
+[29-Mar-2022 22:31:21 UTC] PHP Stack trace:
+[29-Mar-2022 22:31:21 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:31:21 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:92
+[29-Mar-2022 22:32:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 41
+[29-Mar-2022 22:32:10 UTC] PHP Stack trace:
+[29-Mar-2022 22:32:10 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:32:10 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:41
+[29-Mar-2022 22:32:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 44
+[29-Mar-2022 22:32:10 UTC] PHP Stack trace:
+[29-Mar-2022 22:32:10 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:32:10 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:44
+[29-Mar-2022 22:32:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 47
+[29-Mar-2022 22:32:10 UTC] PHP Stack trace:
+[29-Mar-2022 22:32:10 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:32:10 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47
+[29-Mar-2022 22:32:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 50
+[29-Mar-2022 22:32:10 UTC] PHP Stack trace:
+[29-Mar-2022 22:32:10 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:32:10 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:50
+[29-Mar-2022 22:32:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 53
+[29-Mar-2022 22:32:10 UTC] PHP Stack trace:
+[29-Mar-2022 22:32:10 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:32:10 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:53
+[29-Mar-2022 22:32:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 56
+[29-Mar-2022 22:32:10 UTC] PHP Stack trace:
+[29-Mar-2022 22:32:10 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:32:10 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:56
+[29-Mar-2022 22:32:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 92
+[29-Mar-2022 22:32:10 UTC] PHP Stack trace:
+[29-Mar-2022 22:32:10 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:32:10 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:92
+[29-Mar-2022 22:34:41 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 41
+[29-Mar-2022 22:34:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:34:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:34:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:41
+[29-Mar-2022 22:34:41 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 44
+[29-Mar-2022 22:34:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:34:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:34:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:44
+[29-Mar-2022 22:34:41 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 47
+[29-Mar-2022 22:34:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:34:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:34:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47
+[29-Mar-2022 22:34:41 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 50
+[29-Mar-2022 22:34:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:34:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:34:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:50
+[29-Mar-2022 22:34:41 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 53
+[29-Mar-2022 22:34:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:34:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:34:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:53
+[29-Mar-2022 22:34:41 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 56
+[29-Mar-2022 22:34:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:34:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:34:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:56
+[29-Mar-2022 22:34:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 92
+[29-Mar-2022 22:34:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:34:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:34:41 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:92
+[29-Mar-2022 22:35:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug() in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 27
+[29-Mar-2022 22:37:02 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 41
+[29-Mar-2022 22:37:02 UTC] PHP Stack trace:
+[29-Mar-2022 22:37:02 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:37:02 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:41
+[29-Mar-2022 22:38:41 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 41
+[29-Mar-2022 22:38:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:38:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:38:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:41
+[29-Mar-2022 22:38:41 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 44
+[29-Mar-2022 22:38:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:38:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:38:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:44
+[29-Mar-2022 22:38:41 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 47
+[29-Mar-2022 22:38:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:38:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:38:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47
+[29-Mar-2022 22:38:41 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 50
+[29-Mar-2022 22:38:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:38:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:38:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:50
+[29-Mar-2022 22:38:41 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 53
+[29-Mar-2022 22:38:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:38:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:38:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:53
+[29-Mar-2022 22:38:41 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 56
+[29-Mar-2022 22:38:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:38:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:38:41 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:56
+[29-Mar-2022 22:38:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 92
+[29-Mar-2022 22:38:41 UTC] PHP Stack trace:
+[29-Mar-2022 22:38:41 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:38:41 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:92
+[29-Mar-2022 22:40:13 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 41
+[29-Mar-2022 22:40:13 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:13 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:13 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:41
+[29-Mar-2022 22:40:13 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 44
+[29-Mar-2022 22:40:13 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:13 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:13 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:44
+[29-Mar-2022 22:40:13 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 47
+[29-Mar-2022 22:40:13 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:13 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:13 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47
+[29-Mar-2022 22:40:13 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 50
+[29-Mar-2022 22:40:13 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:13 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:13 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:50
+[29-Mar-2022 22:40:13 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 53
+[29-Mar-2022 22:40:13 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:13 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:13 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:53
+[29-Mar-2022 22:40:13 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 56
+[29-Mar-2022 22:40:13 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:13 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:13 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:56
+[29-Mar-2022 22:40:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 92
+[29-Mar-2022 22:40:13 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:13 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:13 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:92
+[29-Mar-2022 22:40:53 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 41
+[29-Mar-2022 22:40:53 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:53 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:53 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:41
+[29-Mar-2022 22:40:53 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 44
+[29-Mar-2022 22:40:53 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:53 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:53 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:44
+[29-Mar-2022 22:40:53 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 47
+[29-Mar-2022 22:40:53 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:53 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:53 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47
+[29-Mar-2022 22:40:53 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 50
+[29-Mar-2022 22:40:53 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:53 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:53 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:50
+[29-Mar-2022 22:40:53 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 53
+[29-Mar-2022 22:40:53 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:53 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:53 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:53
+[29-Mar-2022 22:40:53 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 56
+[29-Mar-2022 22:40:53 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:53 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:53 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:56
+[29-Mar-2022 22:40:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 92
+[29-Mar-2022 22:40:53 UTC] PHP Stack trace:
+[29-Mar-2022 22:40:53 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:40:53 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:92
+[29-Mar-2022 22:41:21 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 41
+[29-Mar-2022 22:41:21 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:21 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:21 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:41
+[29-Mar-2022 22:41:21 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 44
+[29-Mar-2022 22:41:21 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:22 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:22 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:44
+[29-Mar-2022 22:41:22 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 47
+[29-Mar-2022 22:41:22 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:22 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:22 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47
+[29-Mar-2022 22:41:22 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 50
+[29-Mar-2022 22:41:22 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:22 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:22 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:50
+[29-Mar-2022 22:41:22 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 53
+[29-Mar-2022 22:41:22 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:22 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:22 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:53
+[29-Mar-2022 22:41:22 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 56
+[29-Mar-2022 22:41:22 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:22 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:22 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:56
+[29-Mar-2022 22:41:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 92
+[29-Mar-2022 22:41:22 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:22 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:22 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:92
+[29-Mar-2022 22:41:36 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 41
+[29-Mar-2022 22:41:36 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:36 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:36 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:41
+[29-Mar-2022 22:41:36 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 44
+[29-Mar-2022 22:41:36 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:36 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:36 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:44
+[29-Mar-2022 22:41:36 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 47
+[29-Mar-2022 22:41:36 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:36 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:36 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47
+[29-Mar-2022 22:41:36 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 50
+[29-Mar-2022 22:41:36 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:36 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:36 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:50
+[29-Mar-2022 22:41:36 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 53
+[29-Mar-2022 22:41:36 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:36 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:36 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:53
+[29-Mar-2022 22:41:36 UTC] PHP Warning:  imagettftext(): Could not find/open font in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 56
+[29-Mar-2022 22:41:36 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:36 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:36 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:56
+[29-Mar-2022 22:41:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 92
+[29-Mar-2022 22:41:36 UTC] PHP Stack trace:
+[29-Mar-2022 22:41:36 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:41:36 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:92
+[29-Mar-2022 22:42:50 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 41
+[29-Mar-2022 22:42:50 UTC] PHP Stack trace:
+[29-Mar-2022 22:42:50 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:42:50 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:41
+[29-Mar-2022 22:42:50 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 44
+[29-Mar-2022 22:42:50 UTC] PHP Stack trace:
+[29-Mar-2022 22:42:50 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:42:50 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:44
+[29-Mar-2022 22:42:50 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 47
+[29-Mar-2022 22:42:50 UTC] PHP Stack trace:
+[29-Mar-2022 22:42:50 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:42:50 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47
+[29-Mar-2022 22:42:50 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 50
+[29-Mar-2022 22:42:50 UTC] PHP Stack trace:
+[29-Mar-2022 22:42:50 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:42:50 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:50
+[29-Mar-2022 22:42:50 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 53
+[29-Mar-2022 22:42:50 UTC] PHP Stack trace:
+[29-Mar-2022 22:42:50 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:42:50 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:53
+[29-Mar-2022 22:42:50 UTC] PHP Warning:  imagettftext(): Invalid font filename in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 56
+[29-Mar-2022 22:42:50 UTC] PHP Stack trace:
+[29-Mar-2022 22:42:50 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:42:50 UTC] PHP   2. imagettftext() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:56
+[29-Mar-2022 22:42:50 UTC] PHP Warning:  imagecreatefrompng(cake4-rbac.tjg/files/captcha/captcha6.png): failed to open stream: No such file or directory in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 79
+[29-Mar-2022 22:42:50 UTC] PHP Stack trace:
+[29-Mar-2022 22:42:50 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:42:50 UTC] PHP   2. imagecreatefrompng() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:79
+[29-Mar-2022 22:42:50 UTC] PHP Warning:  imagecopymerge() expects parameter 2 to be resource, bool given in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 91
+[29-Mar-2022 22:42:50 UTC] PHP Stack trace:
+[29-Mar-2022 22:42:50 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:42:50 UTC] PHP   2. imagecopymerge() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:91
+[29-Mar-2022 22:42:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:47) in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 92
+[29-Mar-2022 22:42:50 UTC] PHP Stack trace:
+[29-Mar-2022 22:42:50 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:42:50 UTC] PHP   2. header() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:92
+[29-Mar-2022 22:45:15 UTC] PHP Warning:  imagecreatefrompng(cake4-rbac.tjg/files/captcha/captcha9.png): failed to open stream: No such file or directory in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 90
+[29-Mar-2022 22:45:15 UTC] PHP Stack trace:
+[29-Mar-2022 22:45:15 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:45:15 UTC] PHP   2. imagecreatefrompng() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:90
+[29-Mar-2022 22:45:15 UTC] PHP Warning:  imagecopymerge() expects parameter 2 to be resource, bool given in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 93
+[29-Mar-2022 22:45:15 UTC] PHP Stack trace:
+[29-Mar-2022 22:45:15 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 22:45:15 UTC] PHP   2. imagecopymerge() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:93
+[29-Mar-2022 22:58:46 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:62
+Stack trace:
+#0 {main}
+  thrown in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 62
+[29-Mar-2022 23:09:00 UTC] PHP Warning:  session_name(): Cannot change session name when session is active in C:\wamp3\www\cake4-rbac\webroot\files\captcha.php on line 3
+[29-Mar-2022 23:09:00 UTC] PHP Stack trace:
+[29-Mar-2022 23:09:00 UTC] PHP   1. {main}() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:0
+[29-Mar-2022 23:09:00 UTC] PHP   2. session_name() C:\wamp3\www\cake4-rbac\webroot\files\captcha.php:3

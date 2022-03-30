@@ -1,0 +1,10 @@
+2022-03-30 18:04:58 error: [Cake\Database\Exception\MissingConnectionException] Connection to Mysql could not be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in D:\www\cake4-rbac\vendor\cakephp\cakephp\src\Database\Driver.php on line 133
+Exception Attributes: array (
+  'driver' => 'Mysql',
+  'reason' => 'SQLSTATE[HY000] [1045] Access denied for user \'root\'@\'localhost\' (using password: YES)',
+)
+Caused by: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in D:\www\cake4-rbac\vendor\cakephp\cakephp\src\Database\Driver.php on line 125
+Request URL: /login
+Client IP: 127.0.0.1
+
+

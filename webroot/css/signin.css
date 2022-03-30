@@ -1,0 +1,62 @@
+body {
+  background-color: #eee;
+}
+
+.form-signin-heading{
+  color: #428bca;
+  vertical-align: middle;
+  background-color: transparent;
+  text-transform: none;
+  padding-left: 20px;
+}
+
+.alert:before {
+	content: "\f00d";
+	font: normal 18px FontAwesome;
+	text-rendering: auto;
+	float: right;
+	
+}
+.alert:hover:before {
+	cursor:pointer;
+	cursor:hand;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 20px auto;
+}
+
+
+
+.Icon span{
+      background: #428bca;
+      padding: 20px;
+      border-radius: 120px;
+}
+/**
+ * Se aplica al contenedor madre un margen de tamaÃ±o 10px hacia la cabecera y pie,
+ * color de fuente blanco,un tamaÃ±o de fuente 50px y texto centrado.
+ */
+.Icon{
+     margin-top: 10px;
+     margin-bottom:10px; 
+     color: #FFF;
+     font-size: 50px;
+     text-align: center;
+}
+.img-responsive {
+	text-align:center;
+}
+.cuadro-login {
+	max-width:940px;  /*80%*/
+	margin:5% auto;
+	border-radius: 4px 4px 0 0;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	/*padding:0 0 20px;*/
+	padding:0;
+	border-radius: 4px 4px 0 0;
+}
