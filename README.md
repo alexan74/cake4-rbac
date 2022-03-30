@@ -13,5 +13,9 @@ Instalacion:
 	
 	Descarga ZIP https://github.com/alexan74/cake4-rbac/archive/refs/heads/master.zip
 	
+Base de datos:
+	- Ejecutar el cake24-rbac.sql dentro la carpeta bd.  
+	- Modificar los datos de accesos y otros en el archivo app_local.php de la carpeta config
+	
 ---
 # cake4-rbac
