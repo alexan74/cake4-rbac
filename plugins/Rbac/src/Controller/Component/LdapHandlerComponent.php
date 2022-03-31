@@ -44,15 +44,15 @@ class LdapHandlerComponent extends Component implements LoginInterface{
 	public function autenticacion($trigrama, $password){
         $result = false;
        
-        $ldapConnection = ldap_connect($this->config->hostname);
+        $ldapConnection = @ldap_connect($this->config->hostname);
 
         if (!$ldapConnection) {throw new InternalErrorException("El servidor LDAP ". $this->config->hostname ." no responde.");}
-
-        $ldapSearch = ldap_search($ldapConnection, $this->config->base, "(&(uid=$trigrama)(accountstatus=active))",array("dn", "cn"));
+              
+        $ldapSearch = @ldap_search($ldapConnection, $this->config->base, "(&(uid=$trigrama)(accountstatus=active))",array("dn", "cn"));
         
-        if (!$ldapSearch) {throw new InternalErrorException("El usuario $trigrama no existe o no est&aacute; activo.");}
+        if (!$ldapSearch) {throw new InternalErrorException("El usuario $trigrama no existe o no está activo.");}
         
-        $ldapUserInfo = ldap_get_entries($ldapConnection, $ldapSearch);               
+        $ldapUserInfo = @ldap_get_entries($ldapConnection, $ldapSearch);               
         
         if ($ldapUserInfo["count"] == 0) {
             throw new InternalErrorException("Error al tratar de obtener el DN del usuario $trigrama.");
@@ -61,7 +61,6 @@ class LdapHandlerComponent extends Component implements LoginInterface{
             if($result)
             	return $this->getUsuario($trigrama);
         }
-                                      
         return $result;
 	}
 
