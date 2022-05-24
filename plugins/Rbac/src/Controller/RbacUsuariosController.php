@@ -8,7 +8,6 @@ use Cake\Http\Exception\NotFoundException;
 use Cake\Datasource\Exception\RecordNotFoundException;
 use Cake\Datasource\Exception\MissingDatasourceException;
 use Cake\Event\EventInterface;
-use Cake\Mailer\Mailer;
 use Cake\ORM\TableRegistry;
 use Cake\Routing\Router;
 use Cake\Utility\Inflector;
@@ -627,26 +626,6 @@ class RbacUsuariosController extends AppController
         $this->set('data', $data);
 
         $this->render('/Element/ajaxreturn');
-    }
-
-    private function _sendEmail($datos)
-    {
-        $mailer = new Mailer();
-
-        $mailer->setEmailFormat('html')
-            ->setTo($datos['email'])
-            ->setSubject($datos['subject'])
-            ->setViewVars(['url' => $datos['url']])
-            ->viewBuilder()->setTemplate($datos['template']);
-        
-        $mailer->deliver();
-        
-        if (!$mailer) {
-            return FALSE;
-        } else {
-            return TRUE;
-        }
-
     }
 
 	/*

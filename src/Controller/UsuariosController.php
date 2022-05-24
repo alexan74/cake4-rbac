@@ -7,7 +7,6 @@ use Cake\Core\Exception;
 use Cake\Event\EventInterface;
 use Cake\Http\Exception\InternalErrorException;
 use Cake\Routing\Router;
-use Cake\Mailer\Mailer;
 
 class UsuariosController extends AppController {
 	
@@ -309,27 +308,6 @@ class UsuariosController extends AppController {
              //debug($user);
              $this->set(compact('user'));
          }
-         
-     }
-     
-     private function _sendEmail($datos)
-     {
-      
-         $mailer = new Mailer();
-         
-         $mailer->setEmailFormat('html')
-            ->setTo($datos['email'])
-            ->setSubject($datos['subject'])
-            ->viewBuilder()->setTemplate($datos['template'])
-            ->setViewVars(['url' => $datos['url']]);
-         
-         $mailer->deliver();
-         
-         if (!$mailer) {
-             return FALSE;
-         } else {
-             return TRUE;
-         }            
          
      }
      

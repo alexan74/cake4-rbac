@@ -16,8 +16,9 @@ return [
      * true: Errors and warnings shown.
      */
     'debug' => filter_var(env('DEBUG', true), FILTER_VALIDATE_BOOLEAN),
-    'app'=> [
-        'fullBaseUrl'=>$_SERVER['SERVER_NAME']
+    'App'=> [
+        //'fullBaseUrl'=>$_SERVER['SERVER_NAME']
+        'fullBaseUrl'=>true
     ],
     'params' => [
         'aplicacion' => 'DITIC',  //titulo de aplicacion para correos
@@ -57,6 +58,7 @@ return [
             'log' => true,
             'encoding' => 'utf8',
             'timezone' => 'UTC',
+            'port' => '3307'
         ],
         /*'default' => [
          'host' => 'mreldb04.mrec.ar',
